@@ -1,0 +1,9 @@
+20121106	Madpan
+V0.0.2
+function:
+1:Ruko_Key Auto rename And Copy file to Serve
+2:Change which file to rename method
+
+
+
+
